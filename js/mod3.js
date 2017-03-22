@@ -8,4 +8,4 @@
     document.body.appendChild(newSprite);
   };
   document.body.appendChild(btn);
-})
+})()
